@@ -1,0 +1,6 @@
+[submodule "engine"]
+	path = engine
+	url = ./.
+[submodule "samples"]
+	path = samples
+	url = ./.
