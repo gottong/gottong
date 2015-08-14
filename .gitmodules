@@ -1,6 +1,8 @@
-[submodule "engine"]
-	path = engine
-	url = ./.
-[submodule "samples"]
-	path = samples
-	url = ./.
+[submodule "core"]
+	path = core
+	url = https://github.com/gottong/gottong-core
+	branch = core
+[submodule "example"]
+	path = example
+	url = https://github.com/gottong/gottong-example
+	branch = example
